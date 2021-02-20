@@ -1,0 +1,13 @@
+#landing-page{
+    height: 100vh;
+    background-image: url('../images/background/hero.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#landing-page .navbar-nav a{
+    font-size: 20px;
+    color: white;
+    margin-right: 60px;
+}
+.container{
+    text-align: center;
